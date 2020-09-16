@@ -1,39 +1,45 @@
 Group: LuckyDogs
 
-#this is our intelligent light control Client project!
+##this is our intelligent light control Client project!
 
 Our Team Members:
 
 Yan Zhao
 
-#A patient person who gets along well with others
-#Love challenge and pressure
-#Like coding and algorithms
+##A patient person who gets along well with others
+##Love challenge and pressure
+##Like coding and algorithms
 
-Tele:18844116689
+##Tele:18844116689
+
 
 JiangYing Xue
 
-#Like Disney Movie
-#Like sports
-#Like software projects
+##Like Disney Movie
+##Like sports
+##Like software projects
 
-Tele: 13096644503
+##Tele: 13096644503
+
 
 Lingling LI
-#A girl from Hunan
-#Like challeging
-#Contact: 2654585019@qq.com
+##A girl from Hunan
+##Like challeging
+
+##Contact: 2654585019@qq.com
+
 
 Kaiyue Shi(Kayla)
-#An undergraduate student at Jilin University.
-#Enjoy programming and music
-#Motto: Hard work makes more influence than cleverness.
-#Contact: Wechat-18332755168
+##An undergraduate student at Jilin University.
+##Enjoy programming and music
+##Motto: Hard work makes more influence than cleverness.
+
+##Contact: Wechat-18332755168
+
 
 JingHan Lu
-#Like Maths
-#Like basketball
-#Interested in game development
+##Like Maths
+##Like basketball
+##Interested in game development
 
-Tele:18068272379
+##Tele:18068272379
